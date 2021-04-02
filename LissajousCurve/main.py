@@ -5,7 +5,7 @@ import math
 pygame.init()
 
 win_width = 1200
-win_height = 900
+win_height = 700
 title = "Lissajous curve"
 
 def getInCirclePoint(center, radius, phi):
