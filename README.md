@@ -48,6 +48,6 @@ python main.py
 
 ☔ **Rain** is showing pixel art style rain effect
 
-🌊 **Wave interference** coding after the time I just done the [National High School Graduation Examination](https://en.wikipedia.org/wiki/Education_in_Vietnam#:~:text=Entrance to university is determined,to expand its education system.). This is something that I can visualize from physics books.
+🌊 **Wave interference** coding after the time I just done the [National High School Graduation Examination](https://en.wikipedia.org/wiki/Education_in_Vietnam). This is something that I can visualize from physics books.
 
 🌴 **Recursive Tree** just the meaning of it's name, [more in Wikipedia](https://en.wikipedia.org/wiki/Recursive_tree).
